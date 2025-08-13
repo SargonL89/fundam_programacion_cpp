@@ -22,3 +22,4 @@ int main()
     cout << "Suma de números pares: " << acumulador << endl;
     cout << "Promedio de números pares: " << acumulador / contador_pares << endl;
 }
+
